@@ -67,6 +67,7 @@
 ## 📈 Currently Exploring
 
 - Robot Learning
+- Egocentric data
 - Motion Planning
 - Autonomous Navigation
 - Vision-Language Models for Robotics
