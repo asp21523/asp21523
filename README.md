@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Pranav Adabala</h1>
+<h1 align="center">Servus! 👋, I'm Sai Pranav Adabala</h1>
 
 <h3 align="center">
 🤖 Mechatronics & Robotics Master's Student | ROS2 Developer | Computer Vision & AI Enthusiast
